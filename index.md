@@ -18,3 +18,8 @@ var mycat = "larry";
 var you = "makes you scared";
 var result = mycat + you;
 ```
+### My objectives
+My objectives in doing this are... <br/>
+- [ ] Getting a job
+- [ ] Exposing larry
+- [X] Making you scared
