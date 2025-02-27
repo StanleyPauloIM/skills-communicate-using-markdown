@@ -1,5 +1,11 @@
 # They told me to do this, they say its H1
-###### And this should be the last one H6
+###### Try not to get scared
 
 Is this the bottom of the page?
-> I've added some text, does it count???
+> I say as I add text to the **now** top of the page
+
+### Picture of my cat
+I dont understand... whats going on? <br/>
+Anyways here's an image of... LARRY
+<br/>
+![Larry](https://th.bing.com/th/id/OIP.jfhrRmJXFjOptteEyR0CPAAAAA?rs=1&pid=ImgDetMain)
